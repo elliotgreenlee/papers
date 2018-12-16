@@ -24,6 +24,7 @@ Like papers, but longer! These are technical books I have read, own, used at UTK
 * The Computational Beauty of Nature: Computer Explorations of Fractals, Chaos, Complex Systems, and Adaptation. https://books.google.com/books?id=0aUhuv7fjxMC
 * Programming Language Pragmatics 3rd Edition. https://books.google.com/books?id=GBISkhhrHh8C
 * Numerical Methods in Engineering with Python 3. https://books.google.com/books?id=aJkXoxxoCoUC
+* Automate the Boring Stuff with Python: Practical Programming for Total Beginners. https://books.google.com/books?id=HhCkoAEACAAJ
 
 ### Biology
 * Introduction to Computational Genomics: A Case Studies Approach. https://books.google.com/books?id=XqJjHIAKfk0C
@@ -40,6 +41,7 @@ Like papers, but longer! These are technical books I have read, own, used at UTK
 
 ### Security
 * Hacking for Dummies 4th Edition. https://books.google.com/books?id=rIOxAmsA6hQC
+* Introduction to Modern Cryptography 2nd Edition. https://books.google.com/books?id=OWZYBQAAQBAJ
 
 ### Computer Vision
 * Digital Image Processing 2nd Edition. https://books.google.com/books?id=0F05vgAACAAJ
