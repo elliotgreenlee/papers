@@ -38,6 +38,7 @@ Like papers, but longer! These are technical books I have read, own, used at UTK
 
 ### Machine Learning
 * Pattern Classification 2nd Edition. https://books.google.com/books?id=Br33IRC3PkQC
+* Introduction to Machine Learning 3rd Edition. https://books.google.com/books?id=7f5bBAAAQBAJ
 
 ### Security
 * Hacking for Dummies 4th Edition. https://books.google.com/books?id=rIOxAmsA6hQC
@@ -60,6 +61,9 @@ Like papers, but longer! These are technical books I have read, own, used at UTK
 * On Writing. https://books.google.com/books?id=d999Z2KbZJYC
 * The Greatest Show on Earth: The Evidence for Evolution. https://books.google.com/books?id=U8AFxmc76rcC
 * David and Goliath: Underdogs, Misfits, and the Art of Battling Giants. https://books.google.com/books?id=oICRAwAAQBAJ
+* Conversationally Speaking: Tested New Ways to Increase Your Personal and Social Effectiveness 3rd Edition. https://books.google.com/books?id=mh8wDwAAQBAJ
+* Emotional Intelligence 2.0. https://books.google.com/books?id=JAP8B7R67K0C
+* The 21 Indispensable Qualities of a Leader: Becoming the Person Others Will Want to Follow. https://books.google.com/books?id=8JIs89Yi_jAC
 
 # Blogs
 
