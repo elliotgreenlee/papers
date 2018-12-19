@@ -26,6 +26,9 @@ Like papers, but longer! These are technical books I have read, own, used at UTK
 * Numerical Methods in Engineering with Python 3. https://books.google.com/books?id=aJkXoxxoCoUC
 * Automate the Boring Stuff with Python: Practical Programming for Total Beginners. https://books.google.com/books?id=HhCkoAEACAAJ
 
+### Best Practices
+* Site Reliability Engineering: How Google Runs Production Systems. https://books.google.com/books?id=81UrjwEACAAJ
+
 ### Biology
 * Introduction to Computational Genomics: A Case Studies Approach. https://books.google.com/books?id=XqJjHIAKfk0C
 
