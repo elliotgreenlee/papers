@@ -68,6 +68,7 @@ Like papers, but longer! These are technical books I have read, own, used at UTK
 * Emotional Intelligence 2.0. https://books.google.com/books?id=JAP8B7R67K0C
 * The 21 Indispensable Qualities of a Leader: Becoming the Person Others Will Want to Follow. https://books.google.com/books?id=8JIs89Yi_jAC
 * The Talent Code: Greatness Isn't Born. It's Grown. Here's How. https://books.google.com/books?id=gIHSN-ht0xQC
+* How to Lie With Statistics. https://books.google.com/books?id=5oSU5PepogEC
 
 # Blogs
 
