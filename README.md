@@ -26,6 +26,9 @@ Like papers, but longer! These are technical books I have read, own, used at UTK
 * Numerical Methods in Engineering with Python 3. https://books.google.com/books?id=aJkXoxxoCoUC
 * Automate the Boring Stuff with Python: Practical Programming for Total Beginners. https://books.google.com/books?id=HhCkoAEACAAJ
 
+### Best Practices
+* Site Reliability Engineering: How Google Runs Production Systems. https://books.google.com/books?id=81UrjwEACAAJ
+
 ### Biology
 * Introduction to Computational Genomics: A Case Studies Approach. https://books.google.com/books?id=XqJjHIAKfk0C
 
@@ -64,6 +67,8 @@ Like papers, but longer! These are technical books I have read, own, used at UTK
 * Conversationally Speaking: Tested New Ways to Increase Your Personal and Social Effectiveness 3rd Edition. https://books.google.com/books?id=mh8wDwAAQBAJ
 * Emotional Intelligence 2.0. https://books.google.com/books?id=JAP8B7R67K0C
 * The 21 Indispensable Qualities of a Leader: Becoming the Person Others Will Want to Follow. https://books.google.com/books?id=8JIs89Yi_jAC
+* The Talent Code: Greatness Isn't Born. It's Grown. Here's How. https://books.google.com/books?id=gIHSN-ht0xQC
+* How to Lie With Statistics. https://books.google.com/books?id=5oSU5PepogEC
 
 # Blogs
 
