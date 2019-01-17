@@ -1,15 +1,44 @@
 # Papers
 
-These are papers that I have read and liked, or just liked. I will definitely organize them into some categories later.
+These are papers that I have read and like, or just like.
 
 ### Machine Learning
-* lists of papers to come
+* [End-To-End Binary Representation Learning Via Direct Binary Embedding](machine_learning/EndToEndBinaryRepresentationLearningViaDirectBinaryEmbedding.pdf)
+* [Pixel Recurrent Neural Networks](machine_learning/PixelRecurrentNeuralNetworks.pdf)
 
 ### Security
-* lists of papers to come
+* [1Password Security Design](security/1PasswordSecurityDesign.pdf)
+* [A Feature Selection Method for Malware Detection](security/AFeatureSelectionMethodForMalwareDetection.pdf)
+* [A Static Malware Detection System Using Data Mining Methods.pdf](security/AStaticMalwareDetectionSystemUsingDataMiningMethods.pdf)
+* [Know Your Enemy: Web Application Threats](security/KnowYourEnemyWebApplicationThreats.pdf)
+* [SoK: Applying Machine Learning in Security - A Survey](security/SOKApplyingMachineLearningInSecurityASurvey.pdf)
 
 ### System
+* [A Fast File System for UNIX](system/AFastFileSystemForUNIX.pdf)
+* [A Protocol for Packet Network Intercommunication](system/AProtocolForPacketNetworkIntercommunication.pdf)
+* [An Analysis of Facebook Photo Caching](system/AnAnalysisOfFacebookPhotoCaching.pdf)
+* [Bugs as Deviant Behavior: A General Approach to Inferring Errors in Systems Code](system/BugsAsDeviantBehaviorAGeneralApproachToInferringErrorsInSystemsCode.pdf)
+* [Chord: A Scalable Peer-topeer Lookup Service for Internet Applications](system/ChordAScalablePeerToPeerLookupServiceForInternetApplications.pdf)
+* [Disconnected Operation in the Coda File System](system/DisconnectedOperationInTheCodaFileSystem.pdf)
+* [Flywheel: Google's Data Compression Proxy for the Mobile Web](system/FlywheelGooglesDataCompressionProxyForTheMobileWeb.pdf)
+* [GraphX: Graph Processing in a Distributed Dataflow Framework](system/GraphXGraphProcessingInADistributedDataflowFramework.pdf)
+* [Implementing Remote Procedure Calls](system/ImplementingRemoteProcedureCalls.pdf)
+* [KLEE: Unassisted and Automatic Generation of High-Coverage Tests for Complex Systems Programs](system/KLEEUnassistedAndAutomaticGenerationOfHighCoverageTestsForComplexSystemsPrograms.pdf)
+* [MapReduce: Simplified Data Processing on Large Clusters](system/MapReduceSimplifiedDataProcessingOnLargeClusters.pdf)
+* [RCFile: A Fast and Space-efficient Data Placement Structure in MapReduce-based Warehouse Systems](system/RCFileAFastAndSpaceEfficientDataPlacementStructureInMapReduceBasedWarehouseSystems.pdf)
+* [Ray: A Distributed Framework for Emerging AI Applications](system/RayADistributedFrameworkForEmergingAIApplications.pdf)
+* [Resilient Distributed Datasets: A Fault-Tolerant Abstraction for In-Memory Cluster Computing](system/ResilientDistributedDatasetsAFaultTolerantAbstractionForInMemoryClusterComputing.pdf)
+* [SVE: Distributed Video Processing at Facebook Scale](system/SVEDistributedVideoProcessingAtFacebookScale.pdf)
+* [Scheduling Algorithms for Multiprogramming in a Hard-Real-Time Environment](system/SchedulingAlgorithmsForMultiProgrammingInAHardRealTimeEnvironment.pdf)
+* [Software Defined Batteries](system/SoftwareDefinedBatteries.pdf)
+* [TAO: Facebook's Distributed Data Store for the Social Graph](system/TAOFacebooksDistributedDataStoreForTheSocialGraph.pdf)
+* [TensorFlow: A System for Large-Scale Machine Learning](system/TensorFlowASystemForLargeScaleMachineLearning.pdf)
+* [The Google File System](system/TheGoogleFileSystem.pdf)
+* [The Hadoop Distributed File System](system/TheHadoopDistributedFileSystem.pdf)
+* [The UNIX Time-Sharing System](system/TheUnixTimeSharingSystem.pdf)
 
+### Uncategorized
+* [An O(ND) Difference Algorithm and Its Variations](uncategorized/AnO(ND)DifferenceAlgorithmAndItsVariations.pdf)
 
 
 # Textbooks
