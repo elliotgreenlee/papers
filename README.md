@@ -6,6 +6,29 @@ These are papers that I have read and like, or just like.
 * [End-To-End Binary Representation Learning Via Direct Binary Embedding](machine_learning/EndToEndBinaryRepresentationLearningViaDirectBinaryEmbedding.pdf)
 * [Pixel Recurrent Neural Networks](machine_learning/PixelRecurrentNeuralNetworks.pdf)
 
+##### Convolutional Neural Networks
+* [Gradient-Based Learning Applied to Document Recognition](machine_learning/convolutional_neural_networks/1GradientBasedLearningAppliedToDocumentRecognition.pdf)
+* [ImageNet Classification with Deep Convolutional Neural Networks](machine_learning/convolutional_neural_networks/2ImageNetClassificationWithDeepConvolutionalNeuralNetworks.pdf)
+* [Going Deeper with Convolutions](machine_learning/convolutional_neural_networks/3GoingDeeperWithConvolutions.pdf)
+* [Very Deep Convolutional Networks for Large-Scale Image Recognition](machine_learning/convolutional_neural_networks/4VeryDeepConvolutionalNetworksForLargeScaleImageRecognition.pdf)
+* [Deep Residual Learning for Image Recognition](machine_learning/convolutional_neural_networks/5DeepResidualLearningForImageRecognition.pdf)
+* [Squeeze-and-Excitation Networks](machine_learning/convolutional_neural_networks/SqueezeAndExcitationNetworks.pdf)
+
+##### Autoencoders
+* [A Fast Learning Algorithm for Deep Belief Nets](machine_learning/autoencoders/1AFastLearningAlgorithmForDeepBeliefNets.pdf)
+* [Reducing the Dimensionality of Data with Neural Networks](machine_learning/autoencoders/2ReducingTheDimensionalityOfDataWithNeuralNetworks.pdf)
+* [Extracting and Composing Robust Features with Denoising Autoencoders](machine_learning/autoencoders/3ExtractingAndComposingRobustFeaturesWithDenoisingAutoencoders.pdf)
+* [Sparse Feature Learning for Deep Belief Networks](machine_learning/autoencoders/4SparseFeatureLearningForDeepBeliefNetworks.pdf)
+* [Stacked Denoising Autoencoders: Learning Useful Representations in a Deep Network with a Local Denoising Criterion](machine_learning/autoencoders/5StackedDenoisingAutoencodersLearningUsefulRepresentationsInADeepNetworkWithALocalDenoisingCriterion.pdf)
+* [Representation Learning: A Review and New Perspectives](machine_learning/autoencoders/RepresentationLearningAReviewAndNewPerspectives.pdf)
+
+##### Generative Adversarial Networks
+* [Generative Adversarial Nets](machine_learning/generative_adversarial_networks/1GenerativeAdversarialNets.pdf)
+* [Conditional Generative Adversarial Nets](machine_learning/generative_adversarial_networks/2ConditionalGenerativeAdversarialNets.pdf)
+* [Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks](machine_learning/generative_adversarial_networks/3UnsupervisedRepresentationLearningWithDeepConvolutionalGenerativeAdversarialNetworks.pdf)
+* [Towards Principled Methods for Training Generative Adversarial Networks](machine_learning/generative_adversarial_networks/4TowardsPrincipledMethodsForTrainingGenerativeAdversarialNetworks.pdf)
+* [NIPS 2016 Tutorial: Generative Adversarial Networks](machine_learning/generative_adversarial_networks/NIPS2016TutorialGenerativeAdversarialNetworks.pdf)
+
 ### Security
 * [1Password Security Design](security/1PasswordSecurityDesign.pdf)
 * [A Feature Selection Method for Malware Detection](security/AFeatureSelectionMethodForMalwareDetection.pdf)
